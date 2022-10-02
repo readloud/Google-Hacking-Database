@@ -1,9 +1,9 @@
 # Google Hacking-Database [GHDB](https://www.exploit-db.com/google-hacking-database)
 
 ~~~
-"          _                      _          "
-"   _     /||       .   .        ||\     _   "
-"  ( }    \||D    '   '     '   C||/    { %  "
+"          _                       _          "
+"   _     /||       .   .         ||\     _   "
+"  ( }    \||D    '   '     '     C||/    { % "
 " | /\__,=_[_]   '  .   . '       [_]_=,__/\ |"
 " |_\_  |----|                    |----|  _/_|"
 " |  |/ |    |                    |    | \|  |"
