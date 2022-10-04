@@ -63,17 +63,17 @@ Explanations:
 	word in your query is equivalent to putting [allintitle:] at the front of your
 	query: [intitle:google intitle:search] is the same as [allintitle: google search].
 ------------------------------------------------------------------------------------------
-`allinurl`: If you start a query with [allinurl:], Google will restrict the results to
-	those with all of the query words in the url. For instance, [allinurl: google search]
+`allinurl`: If you start a query with `[allinurl:]`, Google will restrict the results to
+	those with all of the query words in the url. For instance, `[allinurl: google search]`
 	will return only documents that have both “google” and “search” in the url. Note
-	that [allinurl:] works on words, not url components. In particular, it ignores
+	that `[allinurl:]` works on words, not url components. In particular, it ignores
 	punctuation. Thus, [allinurl: foo/bar] will restrict the results to page with the
 	words “foo” and “bar” in the url, but won’t require that they be separated by a
 	slash within that url, that they be adjacent, or that they be in that particular
 	word order. There is currently no way to enforce these constraints.
 ------------------------------------------------------------------------------------------
 `inurl`: If you include [inurl:] in your query, Google will restrict the results to
-	documents containing that word in the url. For instance, [inurl:google search] will
+	documents containing that word in the url. For instance, `[inurl:google search]` will
 	return documents that mention the word “google” in their url, and mention the word
 	“search” anywhere in the document (url or no). Note there can be no space between
 	the “inurl:” and the following word. Putting “inurl:” in front of every word in your
@@ -81,8 +81,10 @@ Explanations:
 	[inurl:google inurl:search] is the same as [allinurl: google search].
 ------------------------------------------------------------------------------------------
 `Nina Simone intitle`:”index.of” “parent directory” “size” “last modified” “description” I Put A Spell On You (mp4|mp3|avi|flac|aac|ape|ogg) 
--inurl:(jsp|php|html|aspx|htm|cf|shtml|lyrics-realm|mp3-collection) -site:.info
-Bill Gates intitle:”index.of” “parent directory” “size” “last modified” “description” Microsoft (pdf|txt|epub|doc|docx) -inurl:(jsp|php|html|aspx|htm|cf|shtml|ebooks|ebook) -site:.info
+-inurl:(jsp|php|html|aspx|htm|cf|shtml|lyrics-realm|mp3-collection) 
+-site:.info Bill Gates intitle:”index.of” “parent directory” “size” “last modified” “description” Microsoft (pdf|txt|epub|doc|docx) 
+-inurl:(jsp|php|html|aspx|htm|cf|shtml|ebooks|ebook) 
+-site:.info
 parent directory /appz/ -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
 parent directory DVDRip -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
 parent directory Xvid -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
