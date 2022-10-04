@@ -235,7 +235,7 @@ intitle:(“TrackerCam Live Video”)|(“TrackerCam Application Login”)|(“T
 inurl:admin inurl:userlist Generic userlist files
 
 ------------------------------------------------------------------------------------------
-### Using special search string to find vulnerable websites:
+Using special search string to find vulnerable websites:
 
 inurl:php?=id1
 inurl:index.php?id=
