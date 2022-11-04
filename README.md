@@ -80,7 +80,11 @@ cache: If you include other words in the query, Google will highlight those word
 	query is equivalent to putting “allinurl:” at the front of your query:
 	[inurl:google inurl:search] is the same as [allinurl: google search].
 ------------------------------------------------------------------------------------------
-*Nina Simone intitle:”index.of” “parent directory” “size” “last modified” “description” I Put A Spell On You (mp4|mp3|avi|flac|aac|ape|ogg) -inurl:(jsp|php|html|aspx|htm|cf|shtml|lyrics-realm|mp3-collection) -site:.info Bill Gates intitle:”index.of” “parent directory” “size” “last modified” “description” Microsoft (pdf|txt|epub|doc|docx) -inurl:(jsp|php|html|aspx|htm|cf|shtml|ebooks|ebook) -site:.info
+*intitle:”index.of” “parent directory” “size” “last modified” “description” 
+I Put A Spell On You (mp4|mp3|avi|flac|aac|ape|ogg) -inurl:(jsp|php|html|aspx|htm|cf|shtml|lyrics-realm|mp3-collection) 
+-site:.info Bill Gates intitle:”index.of” “parent directory” “size” “last modified” “description” Microsoft (pdf|txt|epub|doc|docx) 
+-inurl:(jsp|php|html|aspx|htm|cf|shtml|ebooks|ebook) 
+-site:.info
 parent directory /appz/ -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
 parent directory DVDRip -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
 parent directory Xvid -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
@@ -268,3 +272,4 @@ inurl:show.php?id=
 inurl:staff_id=
 inurl:newsitem.php?num=
 ------------------------------------------------------------------------------------------
+*Nina Simone
