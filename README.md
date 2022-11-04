@@ -237,7 +237,6 @@ Nina Simone intitle:”index.of” “parent directory” “size” “last mod
 	intitle:("TrackerCam Live Video")|("TrackerCam Application Login")|("Trackercam Remote") -trackercam.com
 	intitle:(“TrackerCam Live Video”)|(“TrackerCam Application Login”)|(“Trackercam Remote”) -trackercam.com
 	inurl:admin inurl:userlist Generic userlist files
-
 ------------------------------------------------------------------------------------------
 Using special search string to find vulnerable websites:
 
