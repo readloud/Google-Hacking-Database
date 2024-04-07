@@ -1,4 +1,4 @@
-# Google Dorking
+# Google-Hacking-Database (GHDB)
 
 ## Table Of Contents
 
@@ -144,7 +144,9 @@ index of:mp3 intext:.mp3
 
 ## Further
 
-You can find more Google Dorks at the [exploit-db](https://www.exploit-db.com/google-hacking-database) - [maltego](https://www.maltego.com/downloads/) other at [nvd.nist.gov](https://nvd.nist.gov/)/[cxsecurity](https://cxsecurity.com/) or [vulnerability-lab](https://https://vulnerability-lab.com/)
+You can find more Google Dorks at the [exploit-db](https://www.exploit-db.com/google-hacking-database) - [maltego](https://www.maltego.com/downloads/) 
+
+other [nvd.nist.gov](https://nvd.nist.gov/)/[cxsecurity](https://cxsecurity.com/) or [vulnerability-lab](https://https://vulnerability-lab.com/)
 
 [[Back to top]](#table-of-contents)
 
