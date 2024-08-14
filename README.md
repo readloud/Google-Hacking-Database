@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Google-Hacking-Database" />
+</p>
+
 # Google-Hacking-Database (GHDB)
 
   The Google-Hacking-Database (GHDB) is a comprehensive collection of Google search queries, known as "Google Dorks," that help security professionals discover sensitive information exposed online. These queries utilize advanced search operators to locate specific types of data, such as files containing passwords, vulnerabilities on web servers, and other publicly available information that can be leveraged in security assessments. The GHDB is an essential resource for ethical hackers, penetration testers, and anyone interested in cybersecurity.
