@@ -14,7 +14,7 @@
 
 - [Meta](#meta)
 
-- [GHDB Table](#exploit-database.md)
+- [Dork-Exploit-Shellcode](#exploit-database.md)
 ---
 
 ## Advanced Searching
